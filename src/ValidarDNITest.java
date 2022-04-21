@@ -1,5 +1,9 @@
 import static org.junit.jupiter.api.Assertions.*;
 
+/**
+ * Test de la clase ValidarDNI
+ * @Author Aleyn
+ */
 class ValidarDNITest {
 
     @org.junit.jupiter.api.Test
